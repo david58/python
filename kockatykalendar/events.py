@@ -9,6 +9,7 @@ class EventScience(enum.Enum):
     MAT = "mat"
     FYZ = "fyz"
     INF = "inf"
+    CHEM = "chem"
     OTHER = "other"
     ANY = "any"
 
